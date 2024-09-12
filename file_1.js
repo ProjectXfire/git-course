@@ -1,5 +1,5 @@
 function fileOne() {
-  console.log('Git');
+  console.log('Git new changed');
 }
 
 fileOne();
