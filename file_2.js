@@ -1,5 +1,5 @@
 function fileTwo() {
-  console.log('Git 2');
+  console.log('Git 2, changed');
 }
 
 fileTwo();
